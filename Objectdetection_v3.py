@@ -1,9 +1,4 @@
-'''
-Created on Dec 26, 2020
-F:\SOFT\YOlO\ssd_mobilenet_v1_coco_11_06_2017
-F:\SOFT\YOlO\ssd_mobilenet_v3_large_coco_2019_08_14
-@author: MG
-'''
+
 
 import cv2
 
